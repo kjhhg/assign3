@@ -17,14 +17,14 @@ boolean rightPressed = false ;
 
 void setup(){
   size(640,480);
-  bg1 = loadImage("assign3/img/bg1.png");
-  bg2 = loadImage("assign3/img/bg2.png");
-  hp = loadImage("assign3/img/hp.png");
-  enemy = loadImage("assign3/img/enemy.png");
-  fighter = loadImage("assign3/img/fighter.png");
-  treasure = loadImage("assign3/img/treasure.png");
-  start1 = loadImage("assign3/img/start1.png");
-  start2 = loadImage("assign3/img/start2.png");
+  bg1 = loadImage("img/bg1.png");
+  bg2 = loadImage("img/bg2.png");
+  hp = loadImage("img/hp.png");
+  enemy = loadImage("img/enemy.png");
+  fighter = loadImage("img/fighter.png");
+  treasure = loadImage("img/treasure.png");
+  start1 = loadImage("img/start1.png");
+  start2 = loadImage("img/start2.png");
   
   //background
   bgX = 0 ;
